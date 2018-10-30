@@ -4,6 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [Preview](#preview)
 
 ## Instructions
 
@@ -14,3 +15,7 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+## Preview
+
+[Click here!](https://htmlpreview.github.io/?https://github.com/ChiaraTorta/pixel-art-fend-project/blob/master/index.html)
